@@ -4969,6 +4969,16 @@
 				(justify right)
 			)
 		)
+		(pin "EN" input
+			(at 38.1 107.95 180)
+			(uuid "97d67e73-3832-48e4-9e0b-d4e8c2ff7023")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
 		(instances
 			(project "photoelectric_effect_demonstrator"
 				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/6e7d8b09-a202-414e-b4d6-ed4f515ac296/ecba3a4b-b867-4ecf-b109-c2585dde5ea6"

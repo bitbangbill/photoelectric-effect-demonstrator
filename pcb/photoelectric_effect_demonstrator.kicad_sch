@@ -1053,26 +1053,6 @@
 				(justify right)
 			)
 		)
-		(pin "FBBA" input
-			(at 285.75 127 180)
-			(uuid "32270039-b933-4d12-88b8-f0ca381103ed")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "FBBB" input
-			(at 285.75 129.54 180)
-			(uuid "b322d09a-3168-44f6-a7e2-255994246f54")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
 		(instances
 			(project "photoelectric_effect_demonstrator"
 				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6"
