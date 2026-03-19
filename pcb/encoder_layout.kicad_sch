@@ -1257,7 +1257,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0177a1ab-116b-4e8e-ba1a-32b5fb0afb46")
-		(property "Reference" "R43"
+		(property "Reference" "R34"
 			(at 115.57 72.3899 0)
 			(effects
 				(font
@@ -1303,19 +1303,19 @@
 			)
 		)
 		(pin "1"
-			(uuid "88c19f2e-6c4c-40bd-b3b4-4cda4f2a321e")
+			(uuid "bae14227-d307-4a1e-b526-651168798459")
 		)
 		(pin "2"
-			(uuid "7a6aa9d2-cec0-4c5c-a1ff-99bdcd8cf2ae")
+			(uuid "99b15fa2-321e-4901-b7a9-32ed8386f8c5")
 		)
 		(instances
-			(project "photoelectric_demonstrator"
-				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/6e7d8b09-a202-414e-b4d6-ed4f515ac296/ecba3a4b-b867-4ecf-b109-c2585dde5ea6/0fff8e5c-7546-4ef1-bd40-5e357b8e520e"
-					(reference "R43")
+			(project "photoelectric_effect_demonstrator"
+				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/4a859f61-d7fe-4752-bcdb-8b91e4b81000/0fff8e5c-7546-4ef1-bd40-5e357b8e520e"
+					(reference "R34")
 					(unit 1)
 				)
-				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/6e7d8b09-a202-414e-b4d6-ed4f515ac296/ecba3a4b-b867-4ecf-b109-c2585dde5ea6/6113a30d-78b4-48d5-a88f-35b6c2d316a7"
-					(reference "R57")
+				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/4a859f61-d7fe-4752-bcdb-8b91e4b81000/6113a30d-78b4-48d5-a88f-35b6c2d316a7"
+					(reference "R42")
 					(unit 1)
 				)
 			)
@@ -1331,7 +1331,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0bee8b28-e16d-4138-a806-f4a932621f93")
-		(property "Reference" "C66"
+		(property "Reference" "C56"
 			(at 101.6 87.6299 0)
 			(effects
 				(font
@@ -1377,18 +1377,18 @@
 			)
 		)
 		(pin "1"
-			(uuid "087d306f-44f9-46aa-9810-6a40b5abdde9")
+			(uuid "eeac90a7-55e2-49cd-95e7-b288d55ae990")
 		)
 		(pin "2"
-			(uuid "025d472a-d4ee-48c2-8139-a09a63d405ce")
+			(uuid "da49408f-39cb-42e3-9a1e-e1fd13225c92")
 		)
 		(instances
-			(project "photoelectric_demonstrator"
-				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/6e7d8b09-a202-414e-b4d6-ed4f515ac296/ecba3a4b-b867-4ecf-b109-c2585dde5ea6/0fff8e5c-7546-4ef1-bd40-5e357b8e520e"
-					(reference "C66")
+			(project "photoelectric_effect_demonstrator"
+				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/4a859f61-d7fe-4752-bcdb-8b91e4b81000/0fff8e5c-7546-4ef1-bd40-5e357b8e520e"
+					(reference "C56")
 					(unit 1)
 				)
-				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/6e7d8b09-a202-414e-b4d6-ed4f515ac296/ecba3a4b-b867-4ecf-b109-c2585dde5ea6/6113a30d-78b4-48d5-a88f-35b6c2d316a7"
+				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/4a859f61-d7fe-4752-bcdb-8b91e4b81000/6113a30d-78b4-48d5-a88f-35b6c2d316a7"
 					(reference "C60")
 					(unit 1)
 				)
@@ -1405,7 +1405,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1bff2340-5b22-4b82-b661-ee8188e2f07a")
-		(property "Reference" "C67"
+		(property "Reference" "C57"
 			(at 160.02 97.7899 0)
 			(effects
 				(font
@@ -1451,18 +1451,18 @@
 			)
 		)
 		(pin "1"
-			(uuid "52ccd16d-ce5e-48be-ac94-068e7810acbe")
+			(uuid "51bd8664-54ad-4266-809e-82bfb826dd2d")
 		)
 		(pin "2"
-			(uuid "01c47298-f468-4414-bd6d-4bffac3ed1bb")
+			(uuid "e5c7420a-54ef-41c2-a33e-aeddde14108b")
 		)
 		(instances
-			(project "photoelectric_demonstrator"
-				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/6e7d8b09-a202-414e-b4d6-ed4f515ac296/ecba3a4b-b867-4ecf-b109-c2585dde5ea6/0fff8e5c-7546-4ef1-bd40-5e357b8e520e"
-					(reference "C67")
+			(project "photoelectric_effect_demonstrator"
+				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/4a859f61-d7fe-4752-bcdb-8b91e4b81000/0fff8e5c-7546-4ef1-bd40-5e357b8e520e"
+					(reference "C57")
 					(unit 1)
 				)
-				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/6e7d8b09-a202-414e-b4d6-ed4f515ac296/ecba3a4b-b867-4ecf-b109-c2585dde5ea6/6113a30d-78b4-48d5-a88f-35b6c2d316a7"
+				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/4a859f61-d7fe-4752-bcdb-8b91e4b81000/6113a30d-78b4-48d5-a88f-35b6c2d316a7"
 					(reference "C61")
 					(unit 1)
 				)
@@ -1479,7 +1479,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1fd9dd87-a69a-4e72-9259-4e48407311d4")
-		(property "Reference" "#PWR0120"
+		(property "Reference" "#PWR0106"
 			(at 125.73 106.68 0)
 			(effects
 				(font
@@ -1524,15 +1524,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "2bb406bf-94ae-4fd1-8064-4f59aa68822f")
+			(uuid "f24e8623-3196-49bc-a381-91a6231213a5")
 		)
 		(instances
-			(project "photoelectric_demonstrator"
-				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/6e7d8b09-a202-414e-b4d6-ed4f515ac296/ecba3a4b-b867-4ecf-b109-c2585dde5ea6/0fff8e5c-7546-4ef1-bd40-5e357b8e520e"
-					(reference "#PWR0120")
+			(project "photoelectric_effect_demonstrator"
+				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/4a859f61-d7fe-4752-bcdb-8b91e4b81000/0fff8e5c-7546-4ef1-bd40-5e357b8e520e"
+					(reference "#PWR0106")
 					(unit 1)
 				)
-				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/6e7d8b09-a202-414e-b4d6-ed4f515ac296/ecba3a4b-b867-4ecf-b109-c2585dde5ea6/6113a30d-78b4-48d5-a88f-35b6c2d316a7"
+				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/4a859f61-d7fe-4752-bcdb-8b91e4b81000/6113a30d-78b4-48d5-a88f-35b6c2d316a7"
 					(reference "#PWR0115")
 					(unit 1)
 				)
@@ -1549,7 +1549,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2047974a-5f58-40fe-819b-86d89d03e862")
-		(property "Reference" "R53"
+		(property "Reference" "R35"
 			(at 146.05 74.9299 0)
 			(effects
 				(font
@@ -1595,19 +1595,19 @@
 			)
 		)
 		(pin "1"
-			(uuid "847d34cc-f33a-43e2-8462-eac639eb511c")
+			(uuid "e2040fe2-84e4-4bf6-ba7d-7e0c04361d4e")
 		)
 		(pin "2"
-			(uuid "27c14a25-b810-4600-bae0-c4ddc68dd790")
+			(uuid "34dc75bb-9f95-456c-8e03-e7e50e69a073")
 		)
 		(instances
-			(project "photoelectric_demonstrator"
-				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/6e7d8b09-a202-414e-b4d6-ed4f515ac296/ecba3a4b-b867-4ecf-b109-c2585dde5ea6/0fff8e5c-7546-4ef1-bd40-5e357b8e520e"
-					(reference "R53")
+			(project "photoelectric_effect_demonstrator"
+				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/4a859f61-d7fe-4752-bcdb-8b91e4b81000/0fff8e5c-7546-4ef1-bd40-5e357b8e520e"
+					(reference "R35")
 					(unit 1)
 				)
-				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/6e7d8b09-a202-414e-b4d6-ed4f515ac296/ecba3a4b-b867-4ecf-b109-c2585dde5ea6/6113a30d-78b4-48d5-a88f-35b6c2d316a7"
-					(reference "R58")
+				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/4a859f61-d7fe-4752-bcdb-8b91e4b81000/6113a30d-78b4-48d5-a88f-35b6c2d316a7"
+					(reference "R43")
 					(unit 1)
 				)
 			)
@@ -1623,7 +1623,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "30c9bc1b-0430-453b-a245-a71dd25a98b4")
-		(property "Reference" "#PWR0124"
+		(property "Reference" "#PWR0109"
 			(at 156.21 111.76 0)
 			(effects
 				(font
@@ -1668,16 +1668,16 @@
 			)
 		)
 		(pin "1"
-			(uuid "146ecb9d-0a02-4ceb-a73e-e03d0e8ca31b")
+			(uuid "6c9459c7-c7aa-4f04-b2e0-c8382e1da563")
 		)
 		(instances
-			(project "photoelectric_demonstrator"
-				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/6e7d8b09-a202-414e-b4d6-ed4f515ac296/ecba3a4b-b867-4ecf-b109-c2585dde5ea6/0fff8e5c-7546-4ef1-bd40-5e357b8e520e"
-					(reference "#PWR0124")
+			(project "photoelectric_effect_demonstrator"
+				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/4a859f61-d7fe-4752-bcdb-8b91e4b81000/0fff8e5c-7546-4ef1-bd40-5e357b8e520e"
+					(reference "#PWR0109")
 					(unit 1)
 				)
-				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/6e7d8b09-a202-414e-b4d6-ed4f515ac296/ecba3a4b-b867-4ecf-b109-c2585dde5ea6/6113a30d-78b4-48d5-a88f-35b6c2d316a7"
-					(reference "#PWR0127")
+				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/4a859f61-d7fe-4752-bcdb-8b91e4b81000/6113a30d-78b4-48d5-a88f-35b6c2d316a7"
+					(reference "#PWR0121")
 					(unit 1)
 				)
 			)
@@ -1692,7 +1692,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3301dd98-e18c-4e45-8de5-71f323853b91")
-		(property "Reference" "#PWR0109"
+		(property "Reference" "#PWR0107"
 			(at 143.51 73.66 0)
 			(effects
 				(font
@@ -1737,16 +1737,16 @@
 			)
 		)
 		(pin "1"
-			(uuid "68cb414d-f401-4dc2-b385-004a1c9fd686")
+			(uuid "b740f221-c6d3-403c-a37e-d16ddae2da3a")
 		)
 		(instances
-			(project "photoelectric_demonstrator"
-				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/6e7d8b09-a202-414e-b4d6-ed4f515ac296/ecba3a4b-b867-4ecf-b109-c2585dde5ea6/0fff8e5c-7546-4ef1-bd40-5e357b8e520e"
-					(reference "#PWR0109")
+			(project "photoelectric_effect_demonstrator"
+				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/4a859f61-d7fe-4752-bcdb-8b91e4b81000/0fff8e5c-7546-4ef1-bd40-5e357b8e520e"
+					(reference "#PWR0107")
 					(unit 1)
 				)
-				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/6e7d8b09-a202-414e-b4d6-ed4f515ac296/ecba3a4b-b867-4ecf-b109-c2585dde5ea6/6113a30d-78b4-48d5-a88f-35b6c2d316a7"
-					(reference "#PWR0121")
+				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/4a859f61-d7fe-4752-bcdb-8b91e4b81000/6113a30d-78b4-48d5-a88f-35b6c2d316a7"
+					(reference "#PWR0119")
 					(unit 1)
 				)
 			)
@@ -1761,7 +1761,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "43b0cf02-4d8d-4e1e-8a01-82c4b8d53df8")
-		(property "Reference" "#PWR0107"
+		(property "Reference" "#PWR0105"
 			(at 113.03 71.12 0)
 			(effects
 				(font
@@ -1806,16 +1806,16 @@
 			)
 		)
 		(pin "1"
-			(uuid "ec8b757c-9931-4836-868e-49d2db57ff0e")
+			(uuid "cd2d51eb-d7dd-4de6-a0dc-7fe28c81004c")
 		)
 		(instances
-			(project "photoelectric_demonstrator"
-				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/6e7d8b09-a202-414e-b4d6-ed4f515ac296/ecba3a4b-b867-4ecf-b109-c2585dde5ea6/0fff8e5c-7546-4ef1-bd40-5e357b8e520e"
-					(reference "#PWR0107")
+			(project "photoelectric_effect_demonstrator"
+				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/4a859f61-d7fe-4752-bcdb-8b91e4b81000/0fff8e5c-7546-4ef1-bd40-5e357b8e520e"
+					(reference "#PWR0105")
 					(unit 1)
 				)
-				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/6e7d8b09-a202-414e-b4d6-ed4f515ac296/ecba3a4b-b867-4ecf-b109-c2585dde5ea6/6113a30d-78b4-48d5-a88f-35b6c2d316a7"
-					(reference "#PWR0113")
+				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/4a859f61-d7fe-4752-bcdb-8b91e4b81000/6113a30d-78b4-48d5-a88f-35b6c2d316a7"
+					(reference "#PWR0114")
 					(unit 1)
 				)
 			)
@@ -1831,7 +1831,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5fbd0afb-237a-40af-9d25-2064fc56c385")
-		(property "Reference" "C68"
+		(property "Reference" "C58"
 			(at 172.72 97.7899 0)
 			(effects
 				(font
@@ -1877,18 +1877,18 @@
 			)
 		)
 		(pin "1"
-			(uuid "55cb521c-5112-4fb5-b696-692fab0969bc")
+			(uuid "ca349e9e-daba-44df-a76c-78bf29625cf0")
 		)
 		(pin "2"
-			(uuid "d9688c30-3b1d-4117-8a7e-51979e74a45c")
+			(uuid "772a3441-a3fb-4673-9349-c5c92725c2ee")
 		)
 		(instances
-			(project "photoelectric_demonstrator"
-				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/6e7d8b09-a202-414e-b4d6-ed4f515ac296/ecba3a4b-b867-4ecf-b109-c2585dde5ea6/0fff8e5c-7546-4ef1-bd40-5e357b8e520e"
-					(reference "C68")
+			(project "photoelectric_effect_demonstrator"
+				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/4a859f61-d7fe-4752-bcdb-8b91e4b81000/0fff8e5c-7546-4ef1-bd40-5e357b8e520e"
+					(reference "C58")
 					(unit 1)
 				)
-				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/6e7d8b09-a202-414e-b4d6-ed4f515ac296/ecba3a4b-b867-4ecf-b109-c2585dde5ea6/6113a30d-78b4-48d5-a88f-35b6c2d316a7"
+				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/4a859f61-d7fe-4752-bcdb-8b91e4b81000/6113a30d-78b4-48d5-a88f-35b6c2d316a7"
 					(reference "C62")
 					(unit 1)
 				)
@@ -1904,7 +1904,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7234b82c-45f7-46ee-9cf3-06be17a9898d")
-		(property "Reference" "#PWR0114"
+		(property "Reference" "#PWR0108"
 			(at 156.21 73.66 0)
 			(effects
 				(font
@@ -1949,16 +1949,16 @@
 			)
 		)
 		(pin "1"
-			(uuid "6ffa5b33-4785-4c57-bfba-51cbed81ec49")
+			(uuid "0f7a14f2-aa08-471f-854f-535f66275d0f")
 		)
 		(instances
-			(project "photoelectric_demonstrator"
-				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/6e7d8b09-a202-414e-b4d6-ed4f515ac296/ecba3a4b-b867-4ecf-b109-c2585dde5ea6/0fff8e5c-7546-4ef1-bd40-5e357b8e520e"
-					(reference "#PWR0114")
+			(project "photoelectric_effect_demonstrator"
+				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/4a859f61-d7fe-4752-bcdb-8b91e4b81000/0fff8e5c-7546-4ef1-bd40-5e357b8e520e"
+					(reference "#PWR0108")
 					(unit 1)
 				)
-				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/6e7d8b09-a202-414e-b4d6-ed4f515ac296/ecba3a4b-b867-4ecf-b109-c2585dde5ea6/6113a30d-78b4-48d5-a88f-35b6c2d316a7"
-					(reference "#PWR0126")
+				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/4a859f61-d7fe-4752-bcdb-8b91e4b81000/6113a30d-78b4-48d5-a88f-35b6c2d316a7"
+					(reference "#PWR0120")
 					(unit 1)
 				)
 			)
@@ -1974,7 +1974,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "75f7d266-538e-4aeb-bfbb-91438aa50277")
-		(property "Reference" "R52"
+		(property "Reference" "R33"
 			(at 106.68 76.2 90)
 			(effects
 				(font
@@ -2018,19 +2018,19 @@
 			)
 		)
 		(pin "1"
-			(uuid "d5710d5b-5f78-46e6-9628-603c36eb4f47")
+			(uuid "09d01910-827a-47bc-afbe-7bfda7b8f52d")
 		)
 		(pin "2"
-			(uuid "5a6def6e-12c8-4100-b48f-7f62c7894f1f")
+			(uuid "7cb91886-7a89-4e73-b570-249255c29e5d")
 		)
 		(instances
-			(project "photoelectric_demonstrator"
-				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/6e7d8b09-a202-414e-b4d6-ed4f515ac296/ecba3a4b-b867-4ecf-b109-c2585dde5ea6/0fff8e5c-7546-4ef1-bd40-5e357b8e520e"
-					(reference "R52")
+			(project "photoelectric_effect_demonstrator"
+				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/4a859f61-d7fe-4752-bcdb-8b91e4b81000/0fff8e5c-7546-4ef1-bd40-5e357b8e520e"
+					(reference "R33")
 					(unit 1)
 				)
-				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/6e7d8b09-a202-414e-b4d6-ed4f515ac296/ecba3a4b-b867-4ecf-b109-c2585dde5ea6/6113a30d-78b4-48d5-a88f-35b6c2d316a7"
-					(reference "R44")
+				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/4a859f61-d7fe-4752-bcdb-8b91e4b81000/6113a30d-78b4-48d5-a88f-35b6c2d316a7"
+					(reference "R41")
 					(unit 1)
 				)
 			)
@@ -2045,7 +2045,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8d80333b-8c01-45c5-aa20-e0dcc2523887")
-		(property "Reference" "R41"
+		(property "Reference" "R38"
 			(at 160.02 82.55 90)
 			(effects
 				(font
@@ -2089,19 +2089,19 @@
 			)
 		)
 		(pin "1"
-			(uuid "df50b173-f692-4bd0-9dae-2d62a6647611")
+			(uuid "9624a702-5c25-4b43-957c-fe6551afd816")
 		)
 		(pin "2"
-			(uuid "a04c3dc5-089a-4031-b8fa-7126f4af9b2d")
+			(uuid "c3279b1d-1a76-4e4b-872d-ea24317f8a41")
 		)
 		(instances
-			(project "photoelectric_demonstrator"
-				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/6e7d8b09-a202-414e-b4d6-ed4f515ac296/ecba3a4b-b867-4ecf-b109-c2585dde5ea6/0fff8e5c-7546-4ef1-bd40-5e357b8e520e"
-					(reference "R41")
+			(project "photoelectric_effect_demonstrator"
+				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/4a859f61-d7fe-4752-bcdb-8b91e4b81000/0fff8e5c-7546-4ef1-bd40-5e357b8e520e"
+					(reference "R38")
 					(unit 1)
 				)
-				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/6e7d8b09-a202-414e-b4d6-ed4f515ac296/ecba3a4b-b867-4ecf-b109-c2585dde5ea6/6113a30d-78b4-48d5-a88f-35b6c2d316a7"
-					(reference "R66")
+				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/4a859f61-d7fe-4752-bcdb-8b91e4b81000/6113a30d-78b4-48d5-a88f-35b6c2d316a7"
+					(reference "R46")
 					(unit 1)
 				)
 			)
@@ -2117,7 +2117,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9c26faed-4698-4c45-ab43-cb001fb87f10")
-		(property "Reference" "R55"
+		(property "Reference" "R37"
 			(at 158.75 74.9299 0)
 			(effects
 				(font
@@ -2163,19 +2163,19 @@
 			)
 		)
 		(pin "1"
-			(uuid "95d9993f-2d1f-418b-8668-5fd8e97918ee")
+			(uuid "30c7d83a-533e-4ff7-85ee-ae5ef249977e")
 		)
 		(pin "2"
-			(uuid "f4bf2e5a-1fa9-4d33-a928-0628adaf40ea")
+			(uuid "42df7a55-19f8-4eb4-8058-9d9fd707f4ba")
 		)
 		(instances
-			(project "photoelectric_demonstrator"
-				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/6e7d8b09-a202-414e-b4d6-ed4f515ac296/ecba3a4b-b867-4ecf-b109-c2585dde5ea6/0fff8e5c-7546-4ef1-bd40-5e357b8e520e"
-					(reference "R55")
+			(project "photoelectric_effect_demonstrator"
+				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/4a859f61-d7fe-4752-bcdb-8b91e4b81000/0fff8e5c-7546-4ef1-bd40-5e357b8e520e"
+					(reference "R37")
 					(unit 1)
 				)
-				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/6e7d8b09-a202-414e-b4d6-ed4f515ac296/ecba3a4b-b867-4ecf-b109-c2585dde5ea6/6113a30d-78b4-48d5-a88f-35b6c2d316a7"
-					(reference "R60")
+				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/4a859f61-d7fe-4752-bcdb-8b91e4b81000/6113a30d-78b4-48d5-a88f-35b6c2d316a7"
+					(reference "R45")
 					(unit 1)
 				)
 			)
@@ -2191,7 +2191,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ad49cd76-4948-487a-ba8e-6116367cceb2")
-		(property "Reference" "#PWR0119"
+		(property "Reference" "#PWR0104"
 			(at 97.79 101.6 0)
 			(effects
 				(font
@@ -2236,16 +2236,16 @@
 			)
 		)
 		(pin "1"
-			(uuid "e6c3255e-8183-4890-843f-7c4f8d3b186f")
+			(uuid "48b25e99-449c-4b96-a0ce-19ad9f32cbb6")
 		)
 		(instances
-			(project "photoelectric_demonstrator"
-				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/6e7d8b09-a202-414e-b4d6-ed4f515ac296/ecba3a4b-b867-4ecf-b109-c2585dde5ea6/0fff8e5c-7546-4ef1-bd40-5e357b8e520e"
-					(reference "#PWR0119")
+			(project "photoelectric_effect_demonstrator"
+				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/4a859f61-d7fe-4752-bcdb-8b91e4b81000/0fff8e5c-7546-4ef1-bd40-5e357b8e520e"
+					(reference "#PWR0104")
 					(unit 1)
 				)
-				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/6e7d8b09-a202-414e-b4d6-ed4f515ac296/ecba3a4b-b867-4ecf-b109-c2585dde5ea6/6113a30d-78b4-48d5-a88f-35b6c2d316a7"
-					(reference "#PWR0108")
+				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/4a859f61-d7fe-4752-bcdb-8b91e4b81000/6113a30d-78b4-48d5-a88f-35b6c2d316a7"
+					(reference "#PWR0113")
 					(unit 1)
 				)
 			)
@@ -2260,7 +2260,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c2f2e741-1310-4c74-b783-3785ea5cfc44")
-		(property "Reference" "R54"
+		(property "Reference" "R36"
 			(at 151.892 94.996 90)
 			(effects
 				(font
@@ -2304,19 +2304,19 @@
 			)
 		)
 		(pin "1"
-			(uuid "e3d6f3f3-e9a5-4c96-9b9f-f1fbd49960a3")
+			(uuid "ec518db5-ec8c-4164-b2a1-514a3c0e5d9b")
 		)
 		(pin "2"
-			(uuid "5f54e430-cae0-44cc-a3fe-6494f200d2fb")
+			(uuid "db5dd1c3-c8aa-4f00-b731-6b1d263c4a94")
 		)
 		(instances
-			(project "photoelectric_demonstrator"
-				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/6e7d8b09-a202-414e-b4d6-ed4f515ac296/ecba3a4b-b867-4ecf-b109-c2585dde5ea6/0fff8e5c-7546-4ef1-bd40-5e357b8e520e"
-					(reference "R54")
+			(project "photoelectric_effect_demonstrator"
+				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/4a859f61-d7fe-4752-bcdb-8b91e4b81000/0fff8e5c-7546-4ef1-bd40-5e357b8e520e"
+					(reference "R36")
 					(unit 1)
 				)
-				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/6e7d8b09-a202-414e-b4d6-ed4f515ac296/ecba3a4b-b867-4ecf-b109-c2585dde5ea6/6113a30d-78b4-48d5-a88f-35b6c2d316a7"
-					(reference "R59")
+				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/4a859f61-d7fe-4752-bcdb-8b91e4b81000/6113a30d-78b4-48d5-a88f-35b6c2d316a7"
+					(reference "R44")
 					(unit 1)
 				)
 			)
@@ -2332,7 +2332,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c5eaeb5c-49a5-416f-ad5c-48a9652e8cdf")
-		(property "Reference" "#PWR0125"
+		(property "Reference" "#PWR0110"
 			(at 168.91 111.76 0)
 			(effects
 				(font
@@ -2377,16 +2377,16 @@
 			)
 		)
 		(pin "1"
-			(uuid "9356f07e-a365-4963-a403-a1280ba623bd")
+			(uuid "537e4b8a-2cda-4375-869b-2779e832af3e")
 		)
 		(instances
-			(project "photoelectric_demonstrator"
-				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/6e7d8b09-a202-414e-b4d6-ed4f515ac296/ecba3a4b-b867-4ecf-b109-c2585dde5ea6/0fff8e5c-7546-4ef1-bd40-5e357b8e520e"
-					(reference "#PWR0125")
+			(project "photoelectric_effect_demonstrator"
+				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/4a859f61-d7fe-4752-bcdb-8b91e4b81000/0fff8e5c-7546-4ef1-bd40-5e357b8e520e"
+					(reference "#PWR0110")
 					(unit 1)
 				)
-				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/6e7d8b09-a202-414e-b4d6-ed4f515ac296/ecba3a4b-b867-4ecf-b109-c2585dde5ea6/6113a30d-78b4-48d5-a88f-35b6c2d316a7"
-					(reference "#PWR0128")
+				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/4a859f61-d7fe-4752-bcdb-8b91e4b81000/6113a30d-78b4-48d5-a88f-35b6c2d316a7"
+					(reference "#PWR0124")
 					(unit 1)
 				)
 			)
@@ -2402,7 +2402,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ccae2fed-841e-4800-b3aa-4fd51ba224ec")
-		(property "Reference" "MT3"
+		(property "Reference" "MT1"
 			(at 125.73 72.39 0)
 			(effects
 				(font
@@ -2487,34 +2487,34 @@
 			)
 		)
 		(pin "2"
-			(uuid "9eb63f0f-85f2-4c3e-b756-16718544d92b")
+			(uuid "899936db-aa8f-4c22-95e9-15571568153a")
 		)
 		(pin "COM"
-			(uuid "9d0b0529-a8c3-47b9-92dc-afd6caeecef6")
+			(uuid "8c7152a4-837d-4623-97f7-7a335d117a4b")
 		)
 		(pin "A"
-			(uuid "9e8a9e5c-00f7-4c03-8b0a-20067312906b")
+			(uuid "5dea5d8f-45c9-4c4b-97cf-9f718d7d37ef")
 		)
 		(pin "S2"
-			(uuid "09f92cc6-716f-46a0-9797-be733e279d1a")
+			(uuid "a2ecb7cc-1340-4618-932f-e7e9316f2349")
 		)
 		(pin "B"
-			(uuid "986676a9-953a-4608-ad55-637ad0944896")
+			(uuid "62f238ce-e3fd-4041-afdb-15e8055ac893")
 		)
 		(pin "1"
-			(uuid "8d690078-d94b-4f3a-a4bf-bdafb2f0dfa2")
+			(uuid "d173893d-f530-4061-898b-b5d91f2220ec")
 		)
 		(pin "S1"
-			(uuid "bd93002f-942e-4947-9a24-46a9d1de57b7")
+			(uuid "47d604ee-e45a-4059-8d32-006ec8214185")
 		)
 		(instances
-			(project "photoelectric_demonstrator"
-				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/6e7d8b09-a202-414e-b4d6-ed4f515ac296/ecba3a4b-b867-4ecf-b109-c2585dde5ea6/0fff8e5c-7546-4ef1-bd40-5e357b8e520e"
-					(reference "MT3")
+			(project "photoelectric_effect_demonstrator"
+				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/4a859f61-d7fe-4752-bcdb-8b91e4b81000/0fff8e5c-7546-4ef1-bd40-5e357b8e520e"
+					(reference "MT1")
 					(unit 1)
 				)
-				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/6e7d8b09-a202-414e-b4d6-ed4f515ac296/ecba3a4b-b867-4ecf-b109-c2585dde5ea6/6113a30d-78b4-48d5-a88f-35b6c2d316a7"
-					(reference "MT1")
+				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6/4a859f61-d7fe-4752-bcdb-8b91e4b81000/6113a30d-78b4-48d5-a88f-35b6c2d316a7"
+					(reference "MT2")
 					(unit 1)
 				)
 			)

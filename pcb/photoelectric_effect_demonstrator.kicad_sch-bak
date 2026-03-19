@@ -13,7 +13,7 @@
 	(lib_symbols)
 	(rectangle
 		(start 267.97 99.06)
-		(end 392.43 157.48)
+		(end 392.43 153.67)
 		(stroke
 			(width 0)
 			(type default)
@@ -25,7 +25,7 @@
 	)
 	(rectangle
 		(start 180.34 52.07)
-		(end 242.57 177.8)
+		(end 242.57 173.99)
 		(stroke
 			(width 0)
 			(type default)
@@ -108,6 +108,16 @@
 	)
 	(wire
 		(pts
+			(xy 240.03 147.32) (xy 224.79 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3288c1c7-dd32-4ad3-a7b2-d6f1e12f58d6")
+	)
+	(wire
+		(pts
 			(xy 312.42 114.3) (xy 312.42 124.46)
 		)
 		(stroke
@@ -148,6 +158,16 @@
 	)
 	(wire
 		(pts
+			(xy 307.34 138.43) (xy 323.85 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "46c6b2a9-376d-4d8c-a82c-ddf2d58e0d01")
+	)
+	(wire
+		(pts
 			(xy 359.41 127) (xy 372.11 127)
 		)
 		(stroke
@@ -158,6 +178,26 @@
 	)
 	(wire
 		(pts
+			(xy 307.34 146.05) (xy 323.85 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4e67718a-4133-4b83-b2c6-581cd9741f0e")
+	)
+	(wire
+		(pts
+			(xy 240.03 149.86) (xy 224.79 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "50f0a7fb-cf32-4eef-b86f-4c4a0d2bc0f0")
+	)
+	(wire
+		(pts
 			(xy 355.6 116.84) (xy 372.11 116.84)
 		)
 		(stroke
@@ -165,6 +205,16 @@
 			(type default)
 		)
 		(uuid "52f1b4fc-fff2-422c-82b6-ddb4afa42e83")
+	)
+	(wire
+		(pts
+			(xy 307.34 143.51) (xy 323.85 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "57d1d70c-83f0-44f2-a818-61a8dc984b9f")
 	)
 	(wire
 		(pts
@@ -188,6 +238,26 @@
 	)
 	(wire
 		(pts
+			(xy 274.32 127) (xy 285.75 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6eac8430-c860-4866-b1ad-0a0845901311")
+	)
+	(wire
+		(pts
+			(xy 240.03 144.78) (xy 224.79 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7bce4dbc-6aad-4078-acc5-63a0fa1443ed")
+	)
+	(wire
+		(pts
 			(xy 355.6 127) (xy 355.6 116.84)
 		)
 		(stroke
@@ -195,6 +265,16 @@
 			(type default)
 		)
 		(uuid "7c8bc582-ac1f-4434-97be-25285f78d474")
+	)
+	(wire
+		(pts
+			(xy 274.32 129.54) (xy 285.75 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7e97b5e8-2fb7-49c1-a22c-03c499333cb1")
 	)
 	(wire
 		(pts
@@ -225,6 +305,16 @@
 			(type default)
 		)
 		(uuid "a41aad6c-6b04-4356-836f-a188a42d07a1")
+	)
+	(wire
+		(pts
+			(xy 240.03 138.43) (xy 224.79 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a975aded-e4b3-4a1b-8295-cf0549d6ff8c")
 	)
 	(wire
 		(pts
@@ -278,6 +368,16 @@
 	)
 	(wire
 		(pts
+			(xy 240.03 152.4) (xy 224.79 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d8ada909-6b2c-4cad-bdf4-e029e37183ce")
+	)
+	(wire
+		(pts
 			(xy 309.88 111.76) (xy 372.11 111.76)
 		)
 		(stroke
@@ -288,6 +388,16 @@
 	)
 	(wire
 		(pts
+			(xy 240.03 135.89) (xy 224.79 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e3b41c3c-500d-49c7-b783-74dbc583e9db")
+	)
+	(wire
+		(pts
 			(xy 309.88 127) (xy 323.85 127)
 		)
 		(stroke
@@ -295,6 +405,16 @@
 			(type default)
 		)
 		(uuid "e97fff2d-8165-4b69-9059-f885c28d7986")
+	)
+	(wire
+		(pts
+			(xy 307.34 140.97) (xy 323.85 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f896d7fd-275a-414e-a4ba-8934b5e2e2cc")
 	)
 	(wire
 		(pts
@@ -316,6 +436,16 @@
 		)
 		(uuid "075be3d2-17f0-44b4-903e-002f67fd4a3b")
 	)
+	(label "ISO_CALIB_SEL"
+		(at 307.34 146.05 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0b27d1df-ded8-4d19-b594-0b52ea4e5a9d")
+	)
 	(label "ISO_MOSI"
 		(at 273.05 113.03 0)
 		(effects
@@ -325,6 +455,36 @@
 			(justify left bottom)
 		)
 		(uuid "10df8779-58e1-4825-bbc8-32f5df0ec290")
+	)
+	(label "ISO_FBBB"
+		(at 240.03 138.43 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "24d71f55-4cd5-4668-834e-c94adef9586c")
+	)
+	(label "ISO_DRIVE_SEL"
+		(at 240.03 152.4 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "3e8c1b77-918b-434d-b3d5-8c58b6f7ef9d")
+	)
+	(label "ISO_FBBB"
+		(at 274.32 129.54 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "44e65d77-1874-4fae-beaf-9ffdfbcaa414")
 	)
 	(label "ISO_MOSI"
 		(at 359.41 121.92 0)
@@ -336,6 +496,16 @@
 		)
 		(uuid "51e2210e-f151-4cef-8bff-a2a2ac487aef")
 	)
+	(label "ISO_FBBA"
+		(at 274.32 127 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5310ff9e-dfe5-49f7-8672-fe8833ef3921")
+	)
 	(label "ISO_DRDY"
 		(at 359.41 132.08 0)
 		(effects
@@ -345,6 +515,26 @@
 			(justify left bottom)
 		)
 		(uuid "55ecdac1-e2e7-40c6-b203-e38bbee0e152")
+	)
+	(label "ISO_PSU_SEL"
+		(at 307.34 140.97 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5dec1c77-cc21-494e-ba04-8742d311e6bb")
+	)
+	(label "ISO_GND_SEL"
+		(at 240.03 147.32 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "670cfa0b-92e6-40ea-993c-ab98db7fb5ff")
 	)
 	(label "ISO_DRDY"
 		(at 240.03 129.54 180)
@@ -366,6 +556,26 @@
 		)
 		(uuid "77981c1b-7400-4030-bcf7-9c0d486a055e")
 	)
+	(label "ISO_GND_SEL"
+		(at 307.34 138.43 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "806d73fd-cedc-4fcd-8a39-00300e1fff40")
+	)
+	(label "ISO_CALIB_SEL"
+		(at 240.03 149.86 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "8b5184db-68a8-4a39-8984-28e01268d6f0")
+	)
 	(label "ISO_ADC_CS"
 		(at 359.41 129.54 0)
 		(effects
@@ -375,6 +585,36 @@
 			(justify left bottom)
 		)
 		(uuid "8f02b053-eea6-42f7-aa84-e75f47f7abd5")
+	)
+	(label "ISO_FBBA"
+		(at 240.03 135.89 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "98036f05-0f5c-4025-bf7c-1441a7f8eaf3")
+	)
+	(label "ISO_DRIVE_SEL"
+		(at 307.34 143.51 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a10e120d-5c12-4bc8-a0c9-94142a61c242")
+	)
+	(label "ISO_PSU_SEL"
+		(at 240.03 144.78 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "a9647774-8e54-4d2c-aa33-7e7ae4a14abc")
 	)
 	(label "ISO_DAC_CS"
 		(at 273.05 110.49 0)
@@ -445,49 +685,6 @@
 			(justify right bottom)
 		)
 		(uuid "fb064318-aa95-42ae-875d-321d2de099f2")
-	)
-	(sheet
-		(at 55.88 191.77)
-		(size 21.59 22.86)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "4a859f61-d7fe-4752-bcdb-8b91e4b81000")
-		(property "Sheetname" "ui"
-			(at 55.88 191.0584 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "ui.kicad_sch"
-			(at 55.88 215.2146 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(instances
-			(project "photoelectric_effect_demonstrator"
-				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6"
-					(page "5")
-				)
-			)
-		)
 	)
 	(sheet
 		(at 323.85 121.92)
@@ -623,8 +820,8 @@
 		)
 	)
 	(sheet
-		(at 50.8 107.95)
-		(size 38.1 29.21)
+		(at 45.72 115.57)
+		(size 50.8 43.18)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -639,7 +836,7 @@
 		)
 		(uuid "6e7d8b09-a202-414e-b4d6-ed4f515ac296")
 		(property "Sheetname" "microcontroller"
-			(at 50.8 107.2384 0)
+			(at 45.72 114.8584 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -648,7 +845,7 @@
 			)
 		)
 		(property "Sheetfile" "microcontroller.kicad_sch"
-			(at 50.8 137.7446 0)
+			(at 45.72 159.3346 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -666,7 +863,7 @@
 		)
 	)
 	(sheet
-		(at 288.29 146.05)
+		(at 285.75 138.43)
 		(size 17.78 10.16)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -682,7 +879,7 @@
 		)
 		(uuid "727ba978-7131-4914-8856-899029bb248e")
 		(property "Sheetname" "reference_voltage"
-			(at 288.29 145.3384 0)
+			(at 285.75 137.7184 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -691,7 +888,7 @@
 			)
 		)
 		(property "Sheetfile" "reference_voltage.kicad_sch"
-			(at 288.29 156.7946 0)
+			(at 285.75 149.1746 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -704,48 +901,6 @@
 			(project "photoelectric_effect_demonstrator"
 				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6"
 					(page "6")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 109.22 166.37)
-		(size 35.56 30.48)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "762ba62d-efad-4141-81a5-8abf1be31d94")
-		(property "Sheetname" "board_power"
-			(at 109.22 165.6584 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "usbc_psu.kicad_sch"
-			(at 109.22 197.4346 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "photoelectric_effect_demonstrator"
-				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6"
-					(page "28")
 				)
 			)
 		)
@@ -845,7 +1000,7 @@
 	)
 	(sheet
 		(at 285.75 124.46)
-		(size 24.13 17.78)
+		(size 24.13 7.62)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -869,7 +1024,7 @@
 			)
 		)
 		(property "Sheetfile" "tia_feedback_select.kicad_sch"
-			(at 285.75 142.8246 0)
+			(at 285.75 132.6646 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -878,69 +1033,9 @@
 				(hide yes)
 			)
 		)
-		(pin "~{FBSA}" input
-			(at 285.75 127 180)
-			(uuid "027220c6-8667-4090-b855-7e8534c1f147")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "~{FBSB}" input
-			(at 285.75 129.54 180)
-			(uuid "e9bdd688-1ef5-486b-aea4-7b9ce5d9e75a")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "~{FBSC}" input
-			(at 285.75 132.08 180)
-			(uuid "71fc33d1-c374-406c-a25b-6d10aa48e0e8")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "~{FBSD}" input
-			(at 285.75 134.62 180)
-			(uuid "f7267b6b-829f-4b5f-a8fa-d32e8dede783")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "~{FBSE}" input
-			(at 285.75 137.16 180)
-			(uuid "e6d0e124-d56a-4f08-ad7e-6e222453c7e8")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "~{FBSF}" input
-			(at 285.75 139.7 180)
-			(uuid "c6d170f6-3aac-4536-b0a3-d6c63f857005")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "FIN" passive
+		(pin "FEED_IN" passive
 			(at 309.88 129.54 0)
-			(uuid "a4b23c34-f4f8-4503-bb29-586cf0840941")
+			(uuid "7717973a-1c35-4dfd-aac5-767fa5747735")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -948,9 +1043,9 @@
 				(justify right)
 			)
 		)
-		(pin "FOUT" passive
+		(pin "FEED_OUT" passive
 			(at 309.88 127 0)
-			(uuid "649c4373-bc2d-4ed2-936b-00c156467498")
+			(uuid "56fa1aaa-ef48-4338-b769-7a97c6798123")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -962,49 +1057,6 @@
 			(project "photoelectric_effect_demonstrator"
 				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6"
 					(page "4")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 116.84 109.22)
-		(size 20.32 31.75)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "c0a28622-b9bd-4e57-9452-992dd5a29279")
-		(property "Sheetname" "mcu_pin_fanout"
-			(at 116.84 108.5084 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "fanout.kicad_sch"
-			(at 116.84 141.5546 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(instances
-			(project "photoelectric_effect_demonstrator"
-				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6"
-					(page "23")
 				)
 			)
 		)
@@ -1084,9 +1136,29 @@
 				(justify left)
 			)
 		)
+		(pin "GND_SEL" input
+			(at 185.42 147.32 180)
+			(uuid "9e910e50-282d-4ee2-a482-d2c2c2d652b9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
 		(pin "ISO_ADC_CS" output
 			(at 224.79 127 0)
 			(uuid "bda4275a-fbb5-4e54-97ac-473ef23199ac")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "ISO_CALIB_SEL" output
+			(at 224.79 149.86 0)
+			(uuid "76ffb646-aebe-4a2f-a427-150838895eb0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1114,6 +1186,16 @@
 				(justify right)
 			)
 		)
+		(pin "ISO_GND_SEL" output
+			(at 224.79 147.32 0)
+			(uuid "58d66743-9524-4376-8a96-26e32a24602f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
 		(pin "ISO_MISO" input
 			(at 224.79 116.84 0)
 			(uuid "9f4fdf5c-45c1-4ac8-8598-53bb30bf4bc0")
@@ -1127,6 +1209,16 @@
 		(pin "ISO_MOSI" output
 			(at 224.79 114.3 0)
 			(uuid "b8d758f9-02e8-42be-9fe6-262598157c32")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "ISO_PSU_SEL" output
+			(at 224.79 144.78 0)
+			(uuid "ab2ac617-1bf3-4b77-b963-52ee64475112")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1164,6 +1256,16 @@
 				(justify left)
 			)
 		)
+		(pin "PSU_SEL" input
+			(at 185.42 144.78 180)
+			(uuid "f980cc3e-3aa6-4bad-adc5-0b795d6d76f5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
 		(pin "SCLK" input
 			(at 185.42 111.76 180)
 			(uuid "e760ce06-59aa-4893-a20f-caa9617ecf5c")
@@ -1174,9 +1276,9 @@
 				(justify left)
 			)
 		)
-		(pin "~{FBSA}" input
-			(at 185.42 137.16 180)
-			(uuid "d3b2f8e0-17f8-494d-84d7-0b6042591786")
+		(pin "CALIB_SEL" input
+			(at 185.42 149.86 180)
+			(uuid "d988f5fc-6088-4c48-a239-133c897e864d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1184,9 +1286,9 @@
 				(justify left)
 			)
 		)
-		(pin "~{FBSB}" input
-			(at 185.42 139.7 180)
-			(uuid "d364bf2f-ed23-4d67-9cdb-56ed5ce845bf")
+		(pin "DRIVE_SEL" input
+			(at 185.42 152.4 180)
+			(uuid "3c2c8ecc-2d75-4b91-a1bb-027c1072efc0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1194,9 +1296,9 @@
 				(justify left)
 			)
 		)
-		(pin "~{FBSC}" input
-			(at 185.42 142.24 180)
-			(uuid "9a9b7fca-b8c7-4a2b-8be6-f068cbec2bde")
+		(pin "FBBA" input
+			(at 185.42 135.89 180)
+			(uuid "107c3546-5627-40aa-bc5e-912f99181815")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1204,9 +1306,9 @@
 				(justify left)
 			)
 		)
-		(pin "~{FBSD}" input
-			(at 185.42 144.78 180)
-			(uuid "238e8bf3-4aa7-4411-a20b-9e34920a4d70")
+		(pin "FBBB" input
+			(at 185.42 138.43 180)
+			(uuid "e0f203dd-5455-4b3d-9f00-29b0439d86fc")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1214,9 +1316,9 @@
 				(justify left)
 			)
 		)
-		(pin "~{ISO_FBSA}" output
-			(at 224.79 137.16 0)
-			(uuid "4dbf45c8-4dc9-4adb-82c0-3965e4de1315")
+		(pin "ISO_DRIVE_SEL" output
+			(at 224.79 152.4 0)
+			(uuid "919738da-e5e4-4485-bbe2-882bf12c60cf")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1224,9 +1326,9 @@
 				(justify right)
 			)
 		)
-		(pin "~{ISO_FBSB}" output
-			(at 224.79 139.7 0)
-			(uuid "0211f86d-18f5-474b-9f7e-cd15b4cddbc7")
+		(pin "ISO_FBBA" output
+			(at 224.79 135.89 0)
+			(uuid "e64d1fdf-f650-4816-8d89-195a76877a70")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1234,19 +1336,9 @@
 				(justify right)
 			)
 		)
-		(pin "~{ISO_FBSC}" output
-			(at 224.79 142.24 0)
-			(uuid "d7fcab75-b1f7-4787-8a1f-66d8f8f84b41")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "~{ISO_FBSD}" output
-			(at 224.79 144.78 0)
-			(uuid "970adf85-5bb3-4cbb-98ed-b2eac76159df")
+		(pin "ISO_FBBB" output
+			(at 224.79 138.43 0)
+			(uuid "06068691-ff1f-4a3d-a76b-60c234fda4cd")
 			(effects
 				(font
 					(size 1.27 1.27)

@@ -429,8 +429,8 @@
       "tia_feedback_select"
     ],
     [
-      "0fff8e5c-7546-4ef1-bd40-5e357b8e520e",
-      "encoder1"
+      "4a859f61-d7fe-4752-bcdb-8b91e4b81000",
+      "ui"
     ],
     [
       "727ba978-7131-4914-8856-899029bb248e",
@@ -449,12 +449,12 @@
       "adc"
     ],
     [
-      "ecba3a4b-b867-4ecf-b109-c2585dde5ea6",
-      "ui"
+      "0fff8e5c-7546-4ef1-bd40-5e357b8e520e",
+      "encoder1"
     ],
     [
-      "7aa05634-a211-46b2-b098-a79cdc005c08",
-      "button1"
+      "adaa3c42-1b22-4802-a520-a427378415cb",
+      "button7"
     ],
     [
       "6113a30d-78b4-48d5-a88f-35b6c2d316a7",
@@ -465,32 +465,64 @@
       "button2"
     ],
     [
-      "ec11c7ce-e761-47c8-8a24-12455ab09e0c",
-      "button3"
+      "7aa05634-a211-46b2-b098-a79cdc005c08",
+      "button1"
     ],
     [
       "41b5697d-f39e-4e50-bc91-4d0b8672c769",
       "button4"
     ],
     [
+      "c694dc76-d4bf-4e91-aebe-879a07c91918",
+      "relay2"
+    ],
+    [
       "c6bc31e1-e643-4b70-80b4-6a5ff7d4daa1",
       "digital_isolation"
+    ],
+    [
+      "0d2f2a66-73d9-4fef-a070-3ac05f58be8e",
+      "relay1"
+    ],
+    [
+      "8a7e3704-a9a2-4bdb-b22b-d05275f07302",
+      "relay3"
+    ],
+    [
+      "ec11c7ce-e761-47c8-8a24-12455ab09e0c",
+      "button3"
+    ],
+    [
+      "e3efff62-5ebe-4b07-93e1-93a397d6d1d7",
+      "button8"
+    ],
+    [
+      "e45a0b7c-115f-492e-8898-7f77b1ac28fa",
+      "relay1"
     ],
     [
       "5056ee34-396c-4608-b48d-adac47a21fcb",
       "button5"
     ],
     [
+      "c0a28622-b9bd-4e57-9452-992dd5a29279",
+      "mcu_pin_fanout"
+    ],
+    [
+      "75102c83-4a3a-4a85-b953-edba1e747844",
+      "relay2"
+    ],
+    [
+      "3fb66e13-54dd-4cc6-a258-522329112f25",
+      "relay4"
+    ],
+    [
       "08de40da-0c98-4766-abbc-42025d5ab52c",
       "button6"
     ],
     [
-      "adaa3c42-1b22-4802-a520-a427378415cb",
-      "button7"
-    ],
-    [
-      "e3efff62-5ebe-4b07-93e1-93a397d6d1d7",
-      "button8"
+      "762ba62d-efad-4141-81a5-8abf1be31d94",
+      "board_power"
     ]
   ],
   "text_variables": {}

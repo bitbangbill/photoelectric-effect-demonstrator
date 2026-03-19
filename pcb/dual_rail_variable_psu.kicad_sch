@@ -1635,7 +1635,7 @@
 	)
 	(text "VARIABLE POWER SUPPLY"
 		(exclude_from_sim no)
-		(at 73.914 157.988 0)
+		(at 73.914 158.496 0)
 		(effects
 			(font
 				(size 1.27 1.27)
