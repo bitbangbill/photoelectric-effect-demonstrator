@@ -1,0 +1,235 @@
+(footprint "SWT0310-043016GSA"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -2.075 -4.985 0)
+		(layer "F.SilkS")
+		(uuid "d9bffce3-9896-4c0a-9831-2017351bd327")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "SWT0310-043016GSA"
+		(at 0 4.5 0)
+		(layer "F.Fab")
+		(uuid "a4249062-3154-4057-b788-220b9461c1b6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ab6c388d-03c6-48a4-94c3-cd9fd781ef3d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9a0554dd-f2cb-48f0-a38e-6ef6c2f86db4")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -3 -1.08)
+		(end -3 1.08)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8854e59f-6e3d-4dfd-97a2-0b425323f676")
+	)
+	(fp_line
+		(start -2.88 -3)
+		(end 2.88 -3)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4cda5862-05a4-4ff6-aaef-28acb3f641a5")
+	)
+	(fp_line
+		(start -2.88 3)
+		(end 2.88 3)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2f044130-8e43-44b9-8fb0-cff4217aeed0")
+	)
+	(fp_line
+		(start 3 -1.08)
+		(end 3 1.08)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "51793246-9bf9-429e-8b00-fccf8450cf2c")
+	)
+	(fp_circle
+		(center -5.7 -2.25)
+		(end -5.6 -2.25)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "717dd4ee-8569-421c-ba62-3b0f79c4714c")
+	)
+	(fp_line
+		(start -5.25 -3.35)
+		(end -5.25 3.35)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "4c8aa2ad-fe1d-4cca-bfb3-5537223033bb")
+	)
+	(fp_line
+		(start -5.25 3.35)
+		(end 5.25 3.35)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e9b25978-cceb-43ab-9131-18bf28092d5e")
+	)
+	(fp_line
+		(start 5.25 -3.35)
+		(end -5.25 -3.35)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "a32aa630-841b-4675-b346-f3fb23ad9832")
+	)
+	(fp_line
+		(start 5.25 3.35)
+		(end 5.25 -3.35)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "14ca44f9-1a59-437d-afb5-034f2d3d571a")
+	)
+	(fp_line
+		(start -3 -3)
+		(end -3 3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "bdea4266-850c-40b4-8165-b49469a08c98")
+	)
+	(fp_line
+		(start -3 3)
+		(end 3 3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "624cc4f7-bfed-4658-a8be-be7948386bb7")
+	)
+	(fp_line
+		(start 3 -3)
+		(end -3 -3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "aba97a09-0b45-41f8-914b-facc379e13e2")
+	)
+	(fp_line
+		(start 3 3)
+		(end 3 -3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2a9b21e7-8f13-4966-a5e6-c2c0a3ee8dbf")
+	)
+	(fp_circle
+		(center -5.7 -2.25)
+		(end -5.6 -2.25)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "5fd8706e-3c5b-49c1-bafa-27b7b730673e")
+	)
+	(pad "1" smd rect
+		(at -4.1 -2.25)
+		(size 1.8 1.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "413cc540-3aec-4426-b560-05df7c8e4296")
+	)
+	(pad "2" smd rect
+		(at 4.1 -2.25)
+		(size 1.8 1.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "c637c131-31de-4807-b021-e44e83ec605d")
+	)
+	(pad "3" smd rect
+		(at -4.1 2.25)
+		(size 1.8 1.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "ac08d77b-9caa-44e7-9727-5984c4b42ee9")
+	)
+	(pad "4" smd rect
+		(at 4.1 2.25)
+		(size 1.8 1.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "3244ac60-daff-483c-b218-6b73dd587124")
+	)
+	(embedded_fonts no)
+	(model "/home/wrjt/Downloads/SWT0310_043016GSA/swt0310-043016gsa.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
+)
